@@ -1,0 +1,24 @@
+-- Actually, everything is just as you would expect...
+-- you can always check the order of operations (precedence) with :info
+--
+-- 8 + 7 * 9
+-- => 71
+--
+-- (8 + 7) * 9
+-- => 135
+--
+-- perimeter x y = (x * 2) + (y * 2)
+-- perimiter 3 5
+-- => 16
+--
+-- perimeter x y = x * 2 + y * 2
+-- perimiter 3 5
+-- => 16
+--
+-- f x = x / 2 + 9
+-- f 100
+-- => 59
+--
+-- f x = x / (2 + 9)
+-- f 100
+-- => 9.090909090909092
